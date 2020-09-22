@@ -6,7 +6,5 @@
   Nowadays, I take <strong>comissions</strong> for gaming communities and trying to create something more than just yet another one typical DarkRP gameplay in Garry's mod.<br><br>
   You can also find me <a href="https://r3t4rd.artstation.com/">@artstation</a>, <a href="https://vk.com/r3t4rded">@vk</a>, <a href="https://discord.gg/wooh">@discord</a> and <a href="https://wooh.pw">@wooh.pw</a>
   </samp>
-  <br>
-  <br>
   <img src="https://github.com/r3t4rd/r3t4rd/blob/master/UserPicture.png" width="555"/>
 </p>
