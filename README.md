@@ -1,7 +1,4 @@
 <p align="center">
-  <br>
-  <br>
-  <br>
   <samp>Ayo. I'm <a href="https://github.com/r3t4rd">r3t4rd</a>.
   <br>
   I'm Source Engine level-artist from Russia. Started out in high school with voluntary work as part of the LampServ team, testing my web-design [#html, #css, #javascript, #php] and #lua as a whole.<br>
