@@ -6,5 +6,9 @@
   Nowadays, I take <strong>comissions</strong> for gaming communities and trying to create something more than just yet another one typical DarkRP gameplay in Garry's mod.<br><br>
   You can also find me <a href="https://r3t4rd.artstation.com/">@artstation</a>, <a href="https://vk.com/r3t4rded">@vk</a>, <a href="https://discord.gg/yufu">@discord</a> and <a href="https://yufu.su">@yufu</a>
   </samp>
+  <br>
   <img src="https://github.com/r3t4rd/r3t4rd/blob/master/UserPicture.png" width="555"/>
 </p>
+Visit count (since 23 Feb 2023):
+
+![](https://count.getloli.com/@r3t4rd?name=r3t4rd&theme=booru-jaypee&padding=0&offset=0&align=center&scale=1&pixelated=1&darkmode=0)
