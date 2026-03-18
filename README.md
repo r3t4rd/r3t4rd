@@ -9,6 +9,6 @@
   <br>
   <img src="https://github.com/r3t4rd/r3t4rd/blob/master/UserPicture.png" width="555"/>
 </p>
-Visit count (since 23 Feb 2023):
+Visit count (since 18 March 2026):
 
 ![](https://count.getloli.com/@r3t4rd?name=r3t4rd&theme=booru-jaypee&padding=0&offset=0&align=center&scale=1&pixelated=1&darkmode=0)
