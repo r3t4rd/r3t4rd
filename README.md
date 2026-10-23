@@ -1,11 +1,20 @@
+<table>
+<tr>
+<td width="50%" valign="middle">
+
 <img src="assets/v1-hero.svg" width="460" alt="AYO! I'M r3t4rd"/>
 
-Fell in love with <img src="assets/w-source.svg" height="40" alt="Source Engine"/> as a kid and started taking it apart.
-Years of searching myself through <img src="assets/w-webdesign.svg" height="40" alt="web-design"/>, <img src="assets/w-reverse.svg" height="40" alt="reverse-engineering"/> and all kinds of <img src="assets/w-coding.svg" height="40" alt="coding"/>
-turned me into a <img src="assets/w-levelartist.svg" height="40" alt="level-artist"/>.
-Since 2020 I'm back to code, writing Lua for <img src="assets/m-gmodlogo.svg" height="46" alt="Garry's Mod"/>
+</td>
+<td width="50%" valign="middle">
 
-<br clear="right"/>
+<p>Fell in love with <img src="assets/w-source.svg" height="40" alt="Source Engine"/> as a kid and started taking it apart.</p>
+<p>Years of searching myself through <img src="assets/w-webdesign.svg" height="40" alt="web-design"/>, <img src="assets/w-reverse.svg" height="40" alt="reverse-engineering"/> and all kinds of <img src="assets/w-coding.svg" height="40" alt="coding"/>
+turned me into a <img src="assets/w-levelartist.svg" height="40" alt="level-artist"/>.</p>
+<p>Since 2020 I'm back to code, writing Lua for <img src="assets/m-gmodlogo.svg" height="46" alt="Garry's Mod"/></p>
+
+</td>
+</tr>
+</table>
 
 <img src="assets/m-history.svg" width="100%" alt="C:/r3t4rd/history.log"/>
 
