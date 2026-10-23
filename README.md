@@ -34,6 +34,6 @@ turned me into a <img src="assets/w-levelartist.svg" height="40" alt="level-arti
 
 <img src="assets/note-visitors.svg" height="70" alt="visitors since 18.03.2026"/>
 
-![visit count](https://count.getloli.com/@r3t4rd?name=r3t4rd&theme=booru-jaypee&padding=0&offset=0&align=center&scale=1&pixelated=1&darkmode=0)
+![](https://count.getloli.com/@r3t4rd?name=r3t4rd&theme=booru-jaypee&padding=0&offset=0&align=center&scale=1&pixelated=1&darkmode=0)
 
 </div>
