@@ -1,5 +1,3 @@
-<img src="assets/mepic-bounce.png" width="250" align="right" alt="r3t4rd chibi"/>
-
 <img src="assets/v1-hero.svg" width="460" alt="AYO! I'M r3t4rd"/>
 
 Fell in love with <img src="assets/w-source.svg" height="40" alt="Source Engine"/> as a kid and started taking it apart.
