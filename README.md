@@ -1,9 +1,9 @@
 <img src="assets/v1-hero.svg" width="460" align="left" alt="AYO! I'M r3t4rd"/>
 
-<p>Fell in love with <img src="assets/w-source.svg" height="40" alt="Source Engine"/> as a kid and started taking it apart.</p>
-<p>Years of searching myself through <img src="assets/w-webdesign.svg" height="40" alt="web-design"/>, <img src="assets/w-reverse.svg" height="40" alt="reverse-engineering"/> and all kinds of <img src="assets/w-coding.svg" height="40" alt="coding"/>
-turned me into a <img src="assets/w-levelartist.svg" height="40" alt="level-artist"/>.</p>
-<p>Since 2020 I'm back to code, writing Lua for <img src="assets/m-gmodlogo.svg" height="46" alt="Garry's Mod"/></p>
+<p>fell in love with <img src="assets/w-source.svg" height="40" alt="Source Engine"/> as a kid and started digging into it</p>
+<p>years of searching myself through <img src="assets/w-webdesign.svg" height="40" alt="web-design"/> <img src="assets/w-reverse.svg" height="40" alt="reverse-engineering"/> and all kinds of <img src="assets/w-coding.svg" height="40" alt="coding"/>
+turned me into a <img src="assets/w-levelartist.svg" height="40" alt="level-artist"/></p>
+<p>since 2020 im back to code writing lua for <img src="assets/m-gmodlogo.svg" height="46" alt="Garry's Mod"/></p>
 
 <br clear="left"/>
 
